@@ -2,7 +2,7 @@
 /**
   **************************
   * @file           : main.c
-  * AUTHOR			: MOUSTAFA ABUELMAGD & Boda
+  * AUTHOR	    : MOUSTAFA ABUELMAGD & Boda
   * @brief          : Main program body
   **************************
   * @attention
