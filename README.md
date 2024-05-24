@@ -30,3 +30,5 @@ The control system is implemented using PID controllers in Simulink to manage th
 Getting Started Prerequisites:
 -MATLAB with Simulink and Simscape installed.
 -Basic understanding of control systems and physical modeling.
+
+For Drone.slx file to open you need to download the drone solidworks files and the assembly first.
