@@ -32,3 +32,5 @@ Getting Started Prerequisites:
 -Basic understanding of control systems and physical modeling.
 
 For Drone.slx file to open you need to download the drone solidworks files and the assembly first.
+
+This project was the work of me and https://github.com/moustafaabuelmagd
